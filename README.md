@@ -1,4 +1,5 @@
 # coding-challenges
+Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek için çözdüğüm soruları içerir.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
