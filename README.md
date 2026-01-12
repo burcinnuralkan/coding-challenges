@@ -31,6 +31,7 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/burcinnuralkan/coding-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/burcinnuralkan/coding-challenges/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/burcinnuralkan/coding-challenges/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -39,4 +40,8 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/burcinnuralkan/coding-challenges/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/burcinnuralkan/coding-challenges/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
