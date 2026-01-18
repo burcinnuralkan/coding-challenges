@@ -16,6 +16,7 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/burcinnuralkan/coding-challenges/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/burcinnuralkan/coding-challenges/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/burcinnuralkan/coding-challenges/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/burcinnuralkan/coding-challenges/tree/master/0021-merge-two-sorted-lists) |
 ## String
 |  |
 | ------- |
