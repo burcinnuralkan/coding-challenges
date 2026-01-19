@@ -7,6 +7,7 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 | ------- |
 | [0001-two-sum](https://github.com/burcinnuralkan/coding-challenges/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/burcinnuralkan/coding-challenges/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/burcinnuralkan/coding-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/burcinnuralkan/coding-challenges/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/burcinnuralkan/coding-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
