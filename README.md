@@ -36,6 +36,7 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 | [0003-longest-substring-without-repeating-characters](https://github.com/burcinnuralkan/coding-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/burcinnuralkan/coding-challenges/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/burcinnuralkan/coding-challenges/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/burcinnuralkan/coding-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,4 +54,9 @@ Bu repo, veri yapıları ve algoritmalar konusundaki gelişimimi takip etmek iç
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/burcinnuralkan/coding-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/burcinnuralkan/coding-challenges/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/burcinnuralkan/coding-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/burcinnuralkan/coding-challenges/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
